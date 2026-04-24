@@ -1,6 +1,6 @@
 # Advanced Deep Learning in Physics
 
-University coursework repository. Each task produces a Jupyter notebook with code and a short LaTeX report (0.5–1 A4 page).
+University coursework repository for exploring advanced deep learning methods applied to problems from physics. Each task consists of a Jupyter notebook with code and a short LaTeX report.
 
 ## Structure
 
